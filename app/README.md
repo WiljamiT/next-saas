@@ -24,3 +24,5 @@ export default function DashboardLayout({
 ```
 
 ![Next.js Dynamic Routes](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
+
+![Clerk Docs](https://clerk.com/docs/index)
