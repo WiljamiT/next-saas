@@ -2,9 +2,7 @@
 
 [Next.js Pages and Layouts Documentation](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts)
 
-
 ![Next.js Layout Special File](https://nextjs.org/_next/image?url=%2Fdocs%2Flight%2Flayout-special-file.png&w=3840&q=75&dpl=dpl_HKaTZdkuaarspU2J2iNiqNmkbJqv)
-
 
 ```
 export default function DashboardLayout({
@@ -16,7 +14,7 @@ export default function DashboardLayout({
     <section>
       {/* Include shared UI here e.g. a header or sidebar */}
       <nav></nav>
- 
+
       {children}
     </section>
   )
@@ -26,3 +24,5 @@ export default function DashboardLayout({
 ![Next.js Dynamic Routes](https://nextjs.org/docs/app/building-your-application/routing/dynamic-routes)
 
 ![Clerk Docs](https://clerk.com/docs/index)
+
+apps layouts in (root)
